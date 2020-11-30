@@ -1,1 +1,1 @@
-Simple frontend one page website
+Simple one page frontend website using basic Html CSS
